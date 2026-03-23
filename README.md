@@ -1,6 +1,8 @@
 # Análisis Geoespacial de Accesibilidad a Bienes de Consumo Básicos
 ### Lima Metropolitana y Callao — 2019–2024
 
+URL: https://colab.research.google.com/drive/1kzx3-kvEJCpLKpnS8atrsOitlYaf8rnz?usp=sharing
+
 ---
 
 ## Tabla de Contenidos
